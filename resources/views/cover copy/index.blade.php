@@ -49,7 +49,7 @@
       <nav class="nav nav-masthead justify-content-center float-md-end">
       
         <a class="nav-link" href="\cover">Berandaaaaaaaaaaaaaaaaaaaa</a>
-        <a class="nav-link" href="\about">Tentang</a>
+        <a class="nav-link" href="\about">Tentanggggggg</a>
         <a class="nav-link" href="\kontak">Kontak</a>
       </nav>
     </div>
